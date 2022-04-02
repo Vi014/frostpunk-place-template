@@ -1,0 +1,1 @@
+# frostpunk-place-template
