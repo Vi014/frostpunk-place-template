@@ -1,0 +1,29 @@
+{
+
+  "contact": "https://discord.gg/Y5zEn8TSEY",
+
+  "templates": [
+
+    {
+
+      "name": "Frostpunk Faith Flag",
+
+      "sources": [
+
+        "https://raw.githubusercontent.com/Vi014/frostpunk-place-template/main/template.png"
+
+      ],
+
+      "x": 823,
+
+      "y": 902
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
